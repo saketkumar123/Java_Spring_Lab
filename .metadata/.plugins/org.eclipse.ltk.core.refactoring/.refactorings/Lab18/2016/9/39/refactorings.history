@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jlcindia.xml&apos; to &apos;Lab19/src&apos;&#x0D;&#x0A;- Original project: &apos;Lab18&apos;&#x0D;&#x0A;- Destination element: &apos;Lab19/src&apos;&#x0D;&#x0A;- Original element: &apos;jlcindia.xml&apos;" description="Copy file" destination="=Lab19/src" element1="src/jlcindia.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1474557527130" units="0" version="1.0"/>
+</session>
